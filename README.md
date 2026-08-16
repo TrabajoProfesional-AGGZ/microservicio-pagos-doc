@@ -2,7 +2,7 @@
 
 Microservicio que gestiona los pagos de "SocioUnido".
 
-📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-pagos/)**
+📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/microservicio-pagos-doc/)**
 
 ## Licencia ⚖️
 
