@@ -10,19 +10,19 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 
 ## Resumen del repositorio
 
-* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-45-blue)
-* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-20-purple)
+* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-46-blue)
+* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-21-purple)
 * **Issues resueltos:** ![Issues](https://img.shields.io/badge/Issues_Resueltos-11-green)
 
 ## Composición del código (Lenguajes)
 
 Basado en el análisis automático del repositorio, la distribución tecnológica es la siguiente:
 
-* 🔵 **Python:** 97.2%
-* 🟤 **Mako:** 1.3%
-* 🐳 **Dockerfile:** 1.1%
+* 🔵 **Python:** 97.5%
+* 🟤 **Mako:** 1.2%
+* 🐳 **Dockerfile:** 1.0%
 * 🟠 **HTML:** 0.2%
-* 🔴 **Ruby:** 0.2%
+* 🔴 **Ruby:** 0.1%
 
 ## Distribución del trabajo (Contributors)
 
@@ -32,7 +32,7 @@ A continuación se detalla la participación de cada miembro del equipo basándo
 | :--- | :---: | :---: | :---: |
 | **Ghosn, Lautaro Gabriel** (`LGhosn`) | 22 | 1.640 | 317 |
 | **Ascencio, Felipe Santino** (`FelipeAscencio`) | 15 | 847 | 114 |
-| **Guerrero, Martín** (`marttinguerrero`) | 4 | 214 | 18 |
+| **Guerrero, Martín** (`marttinguerrero`) | 5 | 428 | 69 |
 | **Zielonka, Axel** (`axel-zielonka`) | 4 | 132 | 10 |
 
 *(Nota: Cualquier diferencia entre el total de commits del repositorio y la suma de los aportes individuales corresponde a operaciones de mantenimiento automatizado realizadas por herramientas como dependabot).*
