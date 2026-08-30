@@ -10,8 +10,8 @@ Este espacio está destinado a medir el trabajo, la participación y el progreso
 
 ## Resumen del repositorio
 
-* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-46-blue)
-* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-21-purple)
+* **Actividad de commits:** ![Commits](https://img.shields.io/badge/Commits_Totales-52-blue)
+* **Pull Requests cerrados:** ![PRs](https://img.shields.io/badge/PRs_Cerrados-22-purple)
 * **Issues resueltos:** ![Issues](https://img.shields.io/badge/Issues_Resueltos-11-green)
 
 ## Composición del código (Lenguajes)
@@ -30,7 +30,7 @@ A continuación se detalla la participación de cada miembro del equipo basándo
 
 | Miembro del equipo (GitHub User) | Commits Totales | Líneas Agregadas (++) | Líneas Eliminadas (--) |
 | :--- | :---: | :---: | :---: |
-| **Ghosn, Lautaro Gabriel** (`LGhosn`) | 22 | 1.640 | 317 |
+| **Ghosn, Lautaro Gabriel** (`LGhosn`) | 28 | 1.717 | 471 |
 | **Ascencio, Felipe Santino** (`FelipeAscencio`) | 15 | 847 | 114 |
 | **Guerrero, Martín** (`marttinguerrero`) | 5 | 428 | 69 |
 | **Zielonka, Axel** (`axel-zielonka`) | 4 | 132 | 10 |
